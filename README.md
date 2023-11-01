@@ -9,7 +9,6 @@ I'm a passionate software developer with a focus on web development. I love work
 
 ### Technologies and Tools
 
-Tech Stack:
 <div >
 	<table>
 		<tr>
