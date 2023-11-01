@@ -23,13 +23,12 @@ I frequently work with:
 - Gradle
 - REST
 - Java
-- 
 
 ### My Projects
 
 Here are some of the projects I'm proud of:
 
-- [Project 1]([Link](https://github.com/NickMendel/italk-backend)), ([Link](https://github.com/NickMendel/italk-frontend)): It's my current personal Project, where I develop a web app called "italk". The idea is to create my own forum web app. 
+- [Project 1]((https://github.com/NickMendel/italk-backend), ([Link](https://github.com/NickMendel/italk-frontend)): It's my current personal Project, where I develop a web app called "italk". The idea is to create my own forum web app. 
 - [Project 2]([Link](https://github.com/HTW-MA/mensa-app-sose23-gruppe-05)): "MensaMania" is a student project, where we developed our first progressive web application using Nuxt 3 Framework and JavaScript.  
 
 ### GitHub Stats
