@@ -39,7 +39,7 @@ Here are some of the projects I'm proud of:
 
 You can find me on:
 
-- [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/nick-mendel/))
+- LinkedIn:([LinkedIn Profile](https://www.linkedin.com/in/nick-mendel/))
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
